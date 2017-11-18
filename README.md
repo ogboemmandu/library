@@ -1,2 +1,1 @@
-"# library" 
-"# library" 
+"# A simple library project" 
